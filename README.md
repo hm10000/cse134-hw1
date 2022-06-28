@@ -1,3 +1,5 @@
 # CSE134B-SS20-HW1
-# Name:
-# PID:
+
+# Name: Hyunmin Lim
+
+# PID: A17133260
